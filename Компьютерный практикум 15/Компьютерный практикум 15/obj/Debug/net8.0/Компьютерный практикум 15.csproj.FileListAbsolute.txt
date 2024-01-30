@@ -1,0 +1,14 @@
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\bin\Debug\net8.0\Компьютерный практикум 15.exe
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\bin\Debug\net8.0\Компьютерный практикум 15.deps.json
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\bin\Debug\net8.0\Компьютерный практикум 15.runtimeconfig.json
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\bin\Debug\net8.0\Компьютерный практикум 15.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\bin\Debug\net8.0\Компьютерный практикум 15.pdb
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.AssemblyInfoInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.AssemblyInfo.cs
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.csproj.CoreCompileInputs.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\refint\Компьютерный практикум 15.dll
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.pdb
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\Компьютерный практикум 15.genruntimeconfig.cache
+C:\Users\Lucky-Buy.md\source\repos\Компьютерный практикум 15\Компьютерный практикум 15\obj\Debug\net8.0\ref\Компьютерный практикум 15.dll
